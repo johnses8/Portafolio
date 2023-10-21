@@ -46,14 +46,15 @@ const projectsInfo = [
     proyecto_tecnologias: ["Html", "JavaScryot", "TypeScript", "CSS"],
   },
   {
+    
     id: 4,
-    proyecto_title: "Github Issues",
+    proyecto_title: "CRUD",
     proyecto_description:
-      "Permite seguir el estado de los issues de un repositorio de Github, además de poder filtrarlos por estado. Se utilizó React Query para manejar el estado de la aplicación. ",
+      "Crud que calcula el promedio acomulado de la universidad nacional sede manizales. ",
     proyecto_url_github:
-      "https://github.com/gianlucadonofrio/react-query/tree/main/02-react-query-issues",
-    proyecto_url_web: "https://react-query-beta.vercel.app/",
-    proyecto_tecnologias: ["ReactJS", "React Query", "TypeScript"],
+      "https://github.com/johnses8/progamwebnativo.git",
+    proyecto_url_web: "/",
+    proyecto_tecnologias: ["PhP", "Html", "TypeScript"],
   },
 ];
 
@@ -66,6 +67,7 @@ export const ProjectCard = () => {
           className="flex flex-col items-center mt-10 justify-center border-2 border-[var(--bg-hover)]
           rounded-lg shadow-lg md:flex-row md:border-none md:shadow-none md:relative md:h-96"
         >
+          
           <Image
             src={`/images/project-${project.id}.webp`}
             alt={project.proyecto_title}

@@ -29,6 +29,7 @@ module.exports = {
         project1: "url('/images/project-1.webp')",
         project2: "url('/images/project-2.webp')",
         project3: "url('/images/project-3.webp')",
+        project4: "url('/images/project-4.webp')",
       },
     },
   },
