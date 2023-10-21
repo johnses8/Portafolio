@@ -16,18 +16,15 @@ export const AboutMe = () => {
       </div>
       <div>
         <p className="mt-5 text-xl text-start">
-          <span className="font-bold">Software Developer,</span> apasionado por
-          el desarrollo Frontend ♥️. Me encanta crear sitios web que brinden una
-          experiencia de usuario única y satisfactoria. Puedes ver algunos de
-          mis proyectos en la sección de{" "}
+          <span className="font-bold">Software Developer,</span>profundamente apasionado por el desarrollo Frontend ♥️. Me fascina la creación de sitios web que proporcionen una experiencia de usuario excepcional y gratificante. Te invito a explorar algunos de mis proyectos en la sección{" "}
           <a className="font-bold inline-flex" href="#misProyectos">
             proyectos.
             <IconClick />
           </a>
           <br />
-          Soy una persona autodidacta, responsable y comprometida con mi
+          Soy una hombre Estudioso, autodidacto, responsable y comprometido con mi
           trabajo. Constantemente estoy aprendiendo nuevas tecnologías y
-          herramientas para mejorar mis habilidades.
+          herramientas para mejorar mis habilidades y ser mejor dia con dia y ofrecer mayor calidad en mis proyectos.
           <br />
           Si tiene alguna pregunta o algun comentario no dude en{" "}
           <a className="font-bold inline-flex" href="#contactame">

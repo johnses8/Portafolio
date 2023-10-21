@@ -6,8 +6,8 @@ export default function RootLayout({ children }) {
       <head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Gianluca DOnofrio" />
-        <meta name="author" content="Gianluca DOnofrio" />
+        <meta name="description" content="zulu" />
+        <meta name="author" content="zulu" />
         <meta name="theme-color" content="#000000" />
         <link
           rel="apple-touch-icon"
@@ -29,7 +29,7 @@ export default function RootLayout({ children }) {
 
         <link rel="manifest" href="/site.webmanifest" />
         <link rel="icon" href="/favicon.ico" />
-        <title>Gianluca D'Onofrio 👨🏼‍💻</title>
+        <title>Zulu.Co 🎮</title>
       </head>
       <body>{children}</body>
     </html>

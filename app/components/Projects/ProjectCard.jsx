@@ -4,45 +4,46 @@ import Image from "next/image";
 const projectsInfo = [
   {
     id: 1,
-    proyecto_title: "Marvel Comics App",
+    proyecto_title: "Telolimpio Antofa",
     proyecto_description:
-      "Permite ver y comprar los comics de Marvel, tambien permite ver los detalles de cada comic y los personajes que aparecen en cada uno de ellos, además de ver el detalle de cada personaje y los comics en los que aparece.",
-    proyecto_url_github:
-      "https://github.com/gianlucadonofrio/ctd-esp-fe3-final",
-    proyecto_url_web: "https://ctd-esp-fe3-final-beta.vercel.app/",
+      "Permite hacer compras de la empresa telolimpio antofa la cual ofrece servicios de limpieza integral para residencias y oficinas en la ciudad de antofagasta, Chile.",
+    proyecto_url_web: "https://www.telolimpioantofa.cl/",
+    proyecto_url_github:"https://github.com/johnses8",
     proyecto_tecnologias: [
-      "NextJS",
+      "Wix",
       "TypeScript",
-      "Material UI",
-      "React Hook Form",
-      "Jest",
+      "Frontend",
+      "Diseño UX",
+      "Diseño UI"
     ],
   },
   {
     id: 2,
-    proyecto_title: "The Simpsons App",
+    proyecto_title: "Homecenter App",
     proyecto_description:
-      "Permite buscar citas de los personajes de la serie, también permite ver los detalles de cada personaje de la familia Simpson y ver algunas noticias relacionadas a la serie.",
+      "Permite buscar productos de la tienda homecenter y hacer compras desde la misma pagina un proyecto personal que replica el funcionamiento de la tienda homecenter.",
     proyecto_url_github:
-      "https://github.com/gianlucadonofrio/ctd-esp-fe2-final",
-    proyecto_url_web: "https://the-simpson-app.vercel.app/",
+      "https://github.com/johnses8/Ing-software-2.git",
+    proyecto_url_web: "",
     proyecto_tecnologias: [
-      "ReactJS",
-      "TypeScript",
-      "Styled Components",
-      "Redux",
-      "Jest",
+      "Laravel",
+      "Blade",
+      "Html",
+      "CSS",
+      "JavaScript",
+      "PhP",
+      "MySQL",
     ],
   },
   {
     id: 3,
-    proyecto_title: "Rick and Morty App",
+    proyecto_title: "Proyecto Pauli y Zulu",
     proyecto_description:
-      "Permite buscar personajes de la serie, ver sus detalles y ver episodios relacionados a cada personaje, además de poder agregarlos a favoritos.",
+      "Permite la visualizacion de un e-commerce de video juegos el cual tiene un crud para los productos y tambien informacion variada.",
     proyecto_url_github:
-      "https://github.com/gianlucadonofrio/ctd-esp-fe1-final",
-    proyecto_url_web: "https://rick-and-morty-taupe-two.vercel.app/",
-    proyecto_tecnologias: ["ReactJS", "Redux", "TypeScript", "JSDoc"],
+      "https://github.com/johnses8/proyectopauli.git",
+    proyecto_url_web: "",
+    proyecto_tecnologias: ["Html", "JavaScryot", "TypeScript", "CSS"],
   },
   {
     id: 4,

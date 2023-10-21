@@ -8,29 +8,38 @@ import "react-vertical-timeline-component/style.min.css";
 const educationHistory = [
   {
     id: 1,
-    title: "Universidad Argentina de la Empresa",
-    text: "Licenciatura en Gestión de Tecnología de la Información",
-    date: "Marzo 2023 - Actualidad",
+    title: "Universidad Nacional de Colombia",
+    text: "Administracion de Sistemas Informaticos",
+    date: "Enero 2020 - Actualidad",
   },
   {
     id: 2,
-    title: "Digital House",
-    text: "Certified Tech Developer",
-    date: "Julio 2021 - Julio 2023",
-  },
-  {
-    id: 3,
-    title: "Universidad Tecnológica Nacional",
-    text: "Ingeniería en Sistemas de Información",
-    date: "Febrero 2019 - Julio 2021",
+    title: "Universidad Catolica de Manizales",
+    text: "Communicative English",
+    date: "Enero 2018 - diciembre 2019",
   },
 ];
 const workHistory = [
   {
     id: 1,
-    title: "Mercado Libre",
-    text: "Software Developer",
-    date: "Enero 2023 - Actualidad",
+    title: "Telolimpio Antofa",
+    text: "Frontend Software Development",
+    date: "Agosto 2023 - Actualidad",
+    description: "Desarrollador Frontend Pagina Wix",
+  },
+
+  {
+    id: 2,
+    title: "Grupo ASD",
+    text: "Technical Support",
+    date: "Enero 2020 - Actualidad",
+    description: "",
+  },
+  {
+    id: 3,
+    title: "Maderas Algarrobo",
+    text: "Technical assistant in the company's systems",
+    date: "Enero 2020 - Enero 2021",
     description: "",
   },
 ];

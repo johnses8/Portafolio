@@ -22,7 +22,7 @@ export const Footer = () => {
           </ul>
         </div>
         <p className="font-bold text-lg mb-2">
-          Hecho con ❤️ por Gianluca D'Onofrio.
+          Hecho con ❤️ Zulu.
         </p>
       </div>
     </section>

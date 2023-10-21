@@ -25,14 +25,14 @@ export const ContactMeLayout = () => {
             antes posible. ¡Gracias! 😊
           </p>
           <a
-            href="mailto:gian.donofrio2000@gmail.com"
+            href="mailto:jozuluagao@unal.edu.co"
             target="_blank"
             rel="noreferrer"
             aria-label="email"
             className="flex gap-2 items-center justify-center md:justify-start text-xl mt-3"
           >
             <IconMail className="h-8 w-8" />
-            <p className="font-bold">gian.donofrio2000@gmail.com</p>
+            <p className="font-bold">jozuluagao@unal.edu.co</p>
           </a>
         </div>
         <div className="w-full md:w-2/4 justify-center items-center ">

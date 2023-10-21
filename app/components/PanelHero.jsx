@@ -39,7 +39,7 @@ export const PanelHero = () => {
             Contáctame
           </a>
           <a
-            href="https://drive.google.com/drive/folders/14HEezWEgyIcWqDcJboZday1oUzzNpm7I?usp=share_link&pli=1"
+            href="https://drive.google.com/drive/folders/19i53YEdfM8CsZw7c94yfjHs6rdTRF-Y3?usp=sharing"
             className="bg-[var(--bg-buttons)] text-[var(--text-buttons)] rounded flex items-center gap-2 justify-center h-16 w-56 hover:scale-110"
             target="_blank"
             rel="noreferrer"
@@ -49,7 +49,7 @@ export const PanelHero = () => {
           </a>
         </div>
         <div className="flex flex-col items-center justify-center relative">
-          <p className="text-xl md:text-2xl font-semibold">Hola 👋🏼, soy</p>
+          <p className="text-xl md:text-2xl font-semibold">Hola 🙌, soy</p>
           <h1
             className="text-6xl md:text-9xl font-bold flex flex-col items-center animate-gradient"
             style={{
@@ -60,8 +60,8 @@ export const PanelHero = () => {
               WebkitTextFillColor: "transparent",
             }}
           >
-            Gianluca
-            <span>D'Onofrio.</span>
+            John
+            <span>Z'Ospina.</span>
           </h1>
           <p className="text-xl p-3 text-center md:text-2xl font-semibold">
             Software Developer.

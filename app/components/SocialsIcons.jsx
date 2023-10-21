@@ -6,7 +6,7 @@ const iconsList = [
     icon: (
       <IconBrandGithub className="h-10 w-10 hover:scale-125 hover:text-[var(--bg-buttons)]" />
     ),
-    href: "https://github.com/gianlucadonofrio",
+    href: "https://github.com/johnses8",
     ariaLabel: "github-icon",
     target: "_blank",
   },
@@ -15,7 +15,7 @@ const iconsList = [
     icon: (
       <IconBrandLinkedin className="h-10 w-10 hover:scale-125 hover:text-[var(--bg-buttons)]" />
     ),
-    href: "https://www.linkedin.com/in/gianlucadonofrio/",
+    href: "https://www.linkedin.com/in/john-zuluaga-17a6391a7/",
     ariaLabel: "linkedin-icon",
     target: "_blank",
   },
