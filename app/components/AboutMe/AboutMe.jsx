@@ -22,7 +22,7 @@ export const AboutMe = () => {
             <IconClick />
           </a>
           <br />
-          Soy una hombre Estudioso, autodidacto, responsable y comprometido con mi
+          Soy un hombre Estudioso, autodidacto, responsable y comprometido con mi
           trabajo. Constantemente estoy aprendiendo nuevas tecnologías y
           herramientas para mejorar mis habilidades y ser mejor dia con dia y ofrecer mayor calidad en mis proyectos.
           <br />
